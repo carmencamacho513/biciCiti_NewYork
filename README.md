@@ -22,11 +22,11 @@
 
     Encuentra un espacio libre en cualquier estación con puertos. Cuando la luz de bloqueo se ponga en verde, ya está todo listo.
 
-## Herramientas - Lenguajes
+# Herramientas - Lenguajes
 
 Big Query - Looker Studio
 
-## Dashboard
+# :woman_technologist: Dashboard
 
 
 

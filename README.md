@@ -1,7 +1,3 @@
----
-description: 'Descripción del programa:'
----
-
 # 🚴♀ Citi Bike New York
 
 1. Citi Bike es el programa de bicicletas compartidas más grande del país, con 25.000 bicicletas y más de 1.500 estaciones en Manhattan, Brooklyn, Queens, el Bronx, Jersey City y Hoboken.
